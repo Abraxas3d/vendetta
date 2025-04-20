@@ -4,15 +4,16 @@
 ### Simple Healing Strategy
 
 Don't feel pressured to heal every round - Clerics aren't just healing machines. Sometimes dealing damage or controlling the battlefield prevents more damage than healing would restore.
-"Healing Word" is your best friend - It's only a bonus action, leaving your action free for damage or control. Save it for when allies drop to 0 HP to get them back in the fight.
-Mass Cure Wounds - Use this for efficient group healing when multiple party members are injured.
+
+- "Healing Word" is your best friend - It's only a bonus action, leaving your action free for damage or control. Save it for when allies drop to 0 HP to get them back in the fight.
+- Mass Cure Wounds - Use this for efficient group healing when multiple party members are injured.
 For preventative protection: Shield of Faith or Sanctuary on vulnerable allies.
 
 ### When to Use Channel Divinity
 Your Channel Divinity is one of your most powerful features with two options:
 
-Destructive Wrath (maximize lightning/thunder damage) - Use this with your highest-level lightning or thunder spell when facing multiple enemies or a tough boss.
-Turn Undead - Save this specifically for undead encounters to potentially destroy weaker undead outright.
+- Destructive Wrath (maximize lightning/thunder damage) - Use this with your highest-level lightning or thunder spell when facing multiple enemies or a tough boss.
+- Turn Undead - Save this specifically for undead encounters to potentially destroy weaker undead outright.
 
 ### Spell Preparation Made Simple
 Instead of agonizing over your spell list daily, consider having a "core loadout" of spells you almost always prepare:
