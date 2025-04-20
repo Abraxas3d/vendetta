@@ -40,7 +40,7 @@
 ### REACTION DECISION TREE
 When hit by attack:
 - [ ] Is damage > 10? Use **Wrath of the Storm** (2d8 lightning/thunder)
-- [ ] Is it a major enemy? Consider **Hellish Rebuke** (5d10 fire, once per long rest)
+- [ ] Is it a major enemy? Consider **Hellish Rebuke** (5d10 fire if cast at 4th level which is a good compromise, once per long rest)
 
 When enemy leaves melee range:
 - [ ] Use **War Caster** opportunity spell (Command, Inflict Wounds, Guiding Bolt)
