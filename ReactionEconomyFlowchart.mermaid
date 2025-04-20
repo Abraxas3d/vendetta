@@ -1,0 +1,34 @@
+flowchart TD
+    A[Trigger Event] --> B{What triggered\nthe reaction?}
+    
+    B -->|Enemy hits me with\nmelee/ranged attack| C{Is it lightning\nor thunder damage?}
+    C -->|Yes| D[Consider saving\nfor other reactions]
+    C -->|No| E{Is damage\n> 10?}
+    E -->|Yes| F[Use Wrath of the Storm\n2d8 lightning/thunder damage]
+    E -->|No| G[Save reaction\nfor better opportunity]
+    
+    B -->|Enemy fails save\nagainst Turn Undead| H[Use Channel Divinity:\nDestroy Undead]
+    
+    B -->|Enemy casts spell\nwithin 60 ft| I{Is it an\nimportant spell?}
+    I -->|Yes| J[Use Hellish Rebuke\n5th level - 6d10 fire damage]
+    I -->|No| K[Save reaction\nfor better opportunity]
+    
+    B -->|Enemy leaves my\nmelee range| L{Do I have\na good spell to cast?}
+    L -->|Yes| M[Use War Caster\nto cast a spell]
+    L -->|No| N[Take regular\nopportunity attack]
+    
+    B -->|Ally within 5 ft\ntakes attack| O{Is ally below\nhalf health?}
+    O -->|Yes| P[Use Wrath of the Storm\nto protect ally]
+    O -->|No| Q[Save reaction\nfor better opportunity]
+    
+    B -->|Someone fails\na saving throw| R{Is it a critical\nsituation?}
+    R -->|Yes| S[Consider Divine Intervention\nif available]
+    R -->|No| T[Save reaction\nfor better opportunity]
+    
+    style A fill:#6495ED,stroke:#333,stroke-width:2px
+    style F fill:#90EE90,stroke:#333,stroke-width:2px
+    style H fill:#90EE90,stroke:#333,stroke-width:2px
+    style J fill:#90EE90,stroke:#333,stroke-width:2px
+    style M fill:#90EE90,stroke:#333,stroke-width:2px
+    style P fill:#90EE90,stroke:#333,stroke-width:2px
+    style S fill:#FFD700,stroke:#333,stroke-width:2px
