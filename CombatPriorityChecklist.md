@@ -5,6 +5,7 @@
 - [ ] Cast **Bless** on party members if anticipating combat
 - [ ] Consider **Protection from Evil and Good** if facing fiends/devils
 - [ ] **Water Walk** for tactical mobility if near lava/water in Hell
+- [ ] Remember **Divine Strike Feature** At 8th level, you gained Divine Strike, adding 1d8 thunder damage to weapon attacks. Make sure you're using this on every weapon hit.
 
 ### COMBAT OPENER (ROUND 1)
 1. **First Action Options** (choose based on situation):
@@ -54,7 +55,7 @@ When enemy leaves melee range:
 ### EMERGENCY ACTIONS
 - [ ] Ally down? **Healing Word** as bonus action to get them up
 - [ ] Multiple allies down? **Mass Cure Wounds**
-- [ ] Need escape? **Control Weather** or **Wind Walk**
+- [ ] Need escape? **Wind Walk**
 - [ ] Last resort? **Divine Intervention** or **Plane Shift**
 
 ### CONSERVING RESOURCES
